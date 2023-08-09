@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9D6C41EC-0DC4-43A0-A51E-43D7E65A3726}|Default">
+  <MonoDevelop.Ide.ItemProperties.KnowledgeCheck1__Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="KnowledgeCheck1_Calculator/Program.cs">
+    <Files>
+      <File FileName="KnowledgeCheck1_Calculator/Program.cs" Line="123" Column="2" />
+      <File FileName="KnowledgeCheck1_Calculator/Calculator.cs" Line="23" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KnowledgeCheck1_Calculator">
+            <Node name="KnowledgeCheck1_Calculator">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

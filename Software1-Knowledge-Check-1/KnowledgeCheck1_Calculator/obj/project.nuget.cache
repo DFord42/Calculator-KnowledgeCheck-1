@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMJRXl7rmBQSQK9GsZ1BURSszAglVaMHYb3oVV0g9itxekcM2OMRhTTXP1vUbVEmvnrYAmhrhmPcdz7PWs1c3g==",
+  "success": true,
+  "projectFilePath": "/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/KnowledgeCheck1_Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/darbyford/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/darbyford/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/darbyford/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

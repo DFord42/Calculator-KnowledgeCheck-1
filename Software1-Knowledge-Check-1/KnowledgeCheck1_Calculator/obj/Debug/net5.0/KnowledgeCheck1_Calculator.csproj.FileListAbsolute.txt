@@ -1,0 +1,16 @@
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.deps.json
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.AssemblyReference.cache
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/darbyford/Desktop/Calculator/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/ref/KnowledgeCheck1_Calculator.dll
